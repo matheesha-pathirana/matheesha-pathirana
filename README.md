@@ -1,8 +1,5 @@
 ### Hi there, I'm Matheesha - [website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://matheeshapathiranagd.rf.gd/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MatheeshaGD)
-
 ## I'm a Back End Developer !
 
 - 🔭 I just launched my first program
