@@ -44,3 +44,16 @@
 [youtube]: https://www.youtube.com/channel/UC6hOeyOqY0XTkfghXM1RvVQ
 [instagram]: https://www.instagram.com/matheesha_pathirana
 [linkedin]: https://www.linkedin.com/in/matheesha-pathirana-9b49291ab
+
+---
+
+<br />
+
+![Matheesha Pathirana's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheesha-pathirana&show_icons=true&theme=radical)
+
+---
+
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheesha-pathirana)](https://github.com/matheesha-pathirana/github-readme-stats)
+
+---
