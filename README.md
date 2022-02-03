@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheesha-pathirana&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha-pathirana" /> </p>
+
+<br />
+
 <a href="https://github.com/Sathmin-Januth?tab=followers"><img src="https://img.shields.io/github/followers/Sathmin-Januth?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br />
