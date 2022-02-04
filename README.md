@@ -5,7 +5,7 @@
 
 <br />
 
-<a href="https://github.com/Sathmin-Januth?tab=followers"><img src="https://img.shields.io/github/followers/Sathmin-Januth?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/matheesha-pathirana?tab=followers"><img src="https://img.shields.io/github/followers/matheesha-pathirana?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br />
 
