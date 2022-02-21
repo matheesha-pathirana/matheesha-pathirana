@@ -5,6 +5,11 @@
 
 <br />
 
+## [Discord Server 😎](https://discord.gg/pkf2Hzxa9y) | [Website](https://matheeshapathiranagd.rf.gd)
+<a href="https://discord.gg/pkf2Hzxa9y"><img src="https://discord.com/api/guilds/944063539096748093/widget.png?style=banner2"></a>
+
+<br />
+
 <a href="https://github.com/matheesha-pathirana?tab=followers"><img src="https://img.shields.io/github/followers/matheesha-pathirana?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br />
